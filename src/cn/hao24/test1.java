@@ -17,9 +17,6 @@ public class test1
     //dev 2
     //dev 2
     //master22--33-77
-<<<<<<< HEAD
     //wanwan
-=======
->>>>>>> refs/remotes/origin/master
     //准备睡觉
 }
