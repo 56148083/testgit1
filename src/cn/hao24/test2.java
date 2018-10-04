@@ -18,5 +18,6 @@ public class test2
         System.out.println("test1");
         System.out.println("333");
         System.out.println("44");
+        System.out.println("dev");
     }
 }
